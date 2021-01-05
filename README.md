@@ -1,4 +1,8 @@
 # markdown-102
+<!-- Practicing branching -->
+I'm making this change to practice branching. I also completely over looked the index file, so I've added it to my branch. 
+***
+
 <!-- Adding more because I did this before the first commit -->
 Thank you for reading my information!
 ***
